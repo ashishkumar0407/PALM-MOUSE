@@ -16,12 +16,6 @@ This project uses MediaPipe, **OpenCV**, and **PyAutoGUI** to simulate real-time
 | 🟣 Index + Ring   | Right click    |
 | 🔴 All 5 fingers  | Exit program   |
 
----
-
-### 🎥 Demo
-
-> *Add a GIF or screen recording here once you test it!*
-> You can record using [ScreenToGif](https://www.screentogif.com/) or VS Code Recorder extension.
 
 ---
 💡 Requirements
